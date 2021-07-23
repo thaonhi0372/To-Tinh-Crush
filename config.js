@@ -8,7 +8,7 @@ const CONFIG = {
     btnNo: 'Yêu emmm',
     question:'Thank you for the happiest year of my life',
     btnReply: 'Nói gì với em đi',
-    reply: '..............',
+    reply: 'Thao Nhi dang iu nhat tren doi',
     mess: 'Yeu anh nhiuuuuuuuuu',
     messDesc: 'Bớt mắng em lại nha',
     btnAccept: 'Iu lần nữa',
